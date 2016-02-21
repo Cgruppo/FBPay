@@ -1,7 +1,7 @@
 fbpay
 =====
 
-example of how to do payments on facebook using react.js and parse. Clone this and:
+how to do payments on facebook using react.js and parse. Clone this and:
 - set up your app id in the cloud/fbconfig.js file
 - set up your parse info in the cloud/parseconfig.js file
 
